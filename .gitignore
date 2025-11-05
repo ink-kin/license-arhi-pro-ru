@@ -66,3 +66,4 @@ $RECYCLE.BIN/
 # Ignore generated documentation
 docs/.vuepress/
 docs/dist/
+.vercel
