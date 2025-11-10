@@ -1,15 +1,4 @@
 {
-  "$schema": "https://openapi.vercel.sh/vercel.schema.json",
-  "version": 2,
-  "builds": [],
-  "routes": [
-    {
-      "src": "^/[^_].*$",
-      "dest": "/letter.html",
-      "status": 404,
-      "headers": {
-        "cache-control": "public, max-age=0, must-revalidate"
-      }
-    }
-  ]
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true
 }
