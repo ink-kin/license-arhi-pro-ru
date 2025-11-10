@@ -1,4 +1,7 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.schema.json",
+  "version": 2,
+  "builds": [],
   "routes": [
     // 404 Not Found — любая несуществующая страница
     {
