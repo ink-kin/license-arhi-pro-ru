@@ -37,6 +37,7 @@ coverage/
 .docusaurus/
 .cache-loader/
 .vuepress-cache/
+docs/.vuepress/.temp
 
 # Ignore macOS files
 ._*
